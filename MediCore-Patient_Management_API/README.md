@@ -68,6 +68,7 @@ MediCore
 
 ## Swagger UI
 
+<img width="1171" height="911" alt="Swagger UI" src="https://github.com/user-attachments/assets/3fd05c1d-7c3c-4b84-8df9-4c45458408d4" />
 
 # 🚀 Getting Started
 
