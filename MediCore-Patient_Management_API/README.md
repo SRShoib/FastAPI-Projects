@@ -36,13 +36,13 @@ This project demonstrates clean **REST API design**, modular architecture, and r
 MediCore
 │
 ├── app
-│   ├── __init__.py  
+│   ├── __init__.py       # Marks this directory as a Python package. 
 │   ├── main.py           # FastAPI entrypoint
 │   ├── models.py         # Pydantic data models
 │   ├── storage.py        # JSON database layer
 │   │
 │   └── routers
-│       ├── __init__.py 
+│       ├── __init__.py   # Marks this directory as a Python package.
 │       └── patients.py   # Patient API routes
 │
 ├── database
