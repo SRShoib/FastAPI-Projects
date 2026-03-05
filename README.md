@@ -12,11 +12,11 @@ The goal is to experiment with and demonstrate **how FastAPI can be used in diff
 ```
 FastAPI-Projects
 │
-├── MediCore/               # Patient Management API
+├── MediCore-Patient_Management_API/               # Patient Management API
 │
-├── Project-Example/        # Additional FastAPI projects
+├── Project-Example/                               # Additional FastAPI projects
 │
-├── Another-Project/        # Future projects
+├── Another-Project/                               # Future projects
 │
 └── README.md
 ```
